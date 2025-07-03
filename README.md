@@ -111,11 +111,3 @@ The following steps were taken:
 - Deployment via Flask or Streamlit for live predictions.
 
 ---
-
-## 📧 Contact
-For queries or collaboration, reach out via [your-email@example.com].
-
----
-
-## 📝 License
-This project is licensed under the MIT License.
